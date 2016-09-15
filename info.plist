@@ -10,7 +10,20 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>1B0DFEE4-C50C-44A3-A3D1-8C555BAE0076</string>
+				<string>FF316160-82F1-4AC1-8D82-72A1F0AC9ED6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>0F91B666-3136-4C89-8815-31ED0A4570AC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>2ECD4D89-90F1-42E2-9A27-D60A6B92E05C</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -36,7 +49,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>34C6976A-B69A-48C0-9DD8-015368C208D0</string>
+				<string>7FED79AF-3D40-4F5F-A83A-CDF4EBCB66D1</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -45,11 +58,11 @@
 				<false/>
 			</dict>
 		</array>
-		<key>1B0DFEE4-C50C-44A3-A3D1-8C555BAE0076</key>
+		<key>1DBC8B99-1C97-40D4-BC56-26D491A7BA03</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>FF316160-82F1-4AC1-8D82-72A1F0AC9ED6</string>
+				<string>2ECD4D89-90F1-42E2-9A27-D60A6B92E05C</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -62,7 +75,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>BF65E5AB-5941-4694-A96A-FAE227CE2B5F</string>
+				<string>0F91B666-3136-4C89-8815-31ED0A4570AC</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -75,7 +88,20 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>1B0DFEE4-C50C-44A3-A3D1-8C555BAE0076</string>
+				<string>FF316160-82F1-4AC1-8D82-72A1F0AC9ED6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>51B38CA4-C0BA-4F17-9E7D-45CBCE7C1111</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0D460AD2-AAF7-4ACA-9F14-20FA2DFDC2AA</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -101,7 +127,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>1B0DFEE4-C50C-44A3-A3D1-8C555BAE0076</string>
+				<string>FF316160-82F1-4AC1-8D82-72A1F0AC9ED6</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -114,7 +140,7 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>1B0DFEE4-C50C-44A3-A3D1-8C555BAE0076</string>
+				<string>FF316160-82F1-4AC1-8D82-72A1F0AC9ED6</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -162,11 +188,24 @@
 				<false/>
 			</dict>
 		</array>
+		<key>7FED79AF-3D40-4F5F-A83A-CDF4EBCB66D1</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1DBC8B99-1C97-40D4-BC56-26D491A7BA03</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>8E851C85-FFBB-4CA3-BCCD-F25E7A87E94E</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>944F156D-B78F-4998-BC8A-DFFC4D68B7DE</string>
+				<string>D45146C0-ADB0-47F7-92FF-A979F52E332E</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -188,8 +227,45 @@
 				<false/>
 			</dict>
 		</array>
-		<key>BF65E5AB-5941-4694-A96A-FAE227CE2B5F</key>
-		<array/>
+		<key>9DDF92BA-52DB-4B20-919B-442D29401A35</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>653E6299-DAC7-4724-ADDD-9DC40606DA44</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>ADEE587D-679A-4700-971D-9264BA1566C2</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>57B1154B-CFD4-43BF-A368-816497818584</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>CD7965A6-BF4E-4373-B469-7ECA1577E98D</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>1DBC8B99-1C97-40D4-BC56-26D491A7BA03</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>D08BCE8D-1D5F-42FE-88ED-85281C14E371</key>
 		<array>
 			<dict>
@@ -203,11 +279,24 @@
 				<false/>
 			</dict>
 		</array>
-		<key>D818B9D0-9BC2-4221-93E3-8942F11A69DC</key>
+		<key>D45146C0-ADB0-47F7-92FF-A979F52E332E</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>2ECD4D89-90F1-42E2-9A27-D60A6B92E05C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>D818B9D0-9BC2-4221-93E3-8942F11A69DC</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>CD7965A6-BF4E-4373-B469-7ECA1577E98D</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -257,148 +346,20 @@
 			<key>config</key>
 			<dict>
 				<key>argumenttype</key>
-				<integer>2</integer>
+				<integer>0</integer>
 				<key>keyword</key>
-				<string>jira</string>
+				<string>jira_new</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>Jira: SEARCH Taskboard</string>
+				<string>Jira: TASK</string>
 				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>D818B9D0-9BC2-4221-93E3-8942F11A69DC</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://jira.finn.no/secure/RapidBoard.jspa?rapidView=227</string>
-				<key>utf8</key>
 				<true/>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>2ECD4D89-90F1-42E2-9A27-D60A6B92E05C</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>jira_sprint</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Jira: Sprintnummer</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
-			<string>D08BCE8D-1D5F-42FE-88ED-85281C14E371</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>lastpathcomponent</key>
-				<false/>
-				<key>onlyshowifquerypopulated</key>
-				<false/>
-				<key>removeextension</key>
-				<false/>
-				<key>text</key>
-				<string>{query}</string>
-				<key>title</key>
-				<string>Jira Sprint</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.notification</string>
-			<key>uid</key>
-			<string>26EB2602-2617-4B89-8427-6F01756B273C</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>127</integer>
-				<key>script</key>
-				<string>SP=`/Users/frerodla/bin/jira/get_sprint.sh`
-
-echo $SP | pbcopy
-
-echo "Copied to clipboard: $SP"</string>
-				<key>scriptargtype</key>
-				<integer>0</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>0</integer>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.script</string>
-			<key>uid</key>
-			<string>923DB6D1-A984-4EB9-99BF-2C6F05334B9C</string>
-			<key>version</key>
-			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://jira.finn.no/issues/?jql=project%3DADOUT%20AND%20labels%20%3D%20search%20and%20%28text%20%7E%20%22{query}%22%29</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>944F156D-B78F-4998-BC8A-DFFC4D68B7DE</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>2</integer>
-				<key>keyword</key>
-				<string>sprint</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Jira: Sprintnummer</string>
-				<key>withspace</key>
-				<false/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>DBD10687-1C14-4412-BD7D-DBA48DE97FC9</string>
+			<string>15299C7A-CDEA-4359-8898-446F2892DB7C</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -426,79 +387,15 @@ echo "Copied to clipboard: $SP"</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>jira_new</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Jira: TASK</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>15299C7A-CDEA-4359-8898-446F2892DB7C</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>keyword</key>
-				<string>jira_sak</string>
-				<key>subtext</key>
-				<string></string>
-				<key>text</key>
-				<string>Jira: Tasknummer</string>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.keyword</string>
-			<key>uid</key>
-			<string>304A56A5-3448-4A18-BAB6-33A0ACFAAAF9</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://jira.finn.no/browse/ADOUT-{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>BF65E5AB-5941-4694-A96A-FAE227CE2B5F</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>argument</key>
-				<string>{query}</string>
+				<string>{var:JIRA_URL}/issues/?jql=project%3DADOUT%20AND%20labels%20%3D%20search%20and%20%28text%20%7E%20%22{query}%22%29</string>
 				<key>variables</key>
-				<dict>
-					<key>JIRA_ISSUE_TYPE</key>
-					<string>Task</string>
-				</dict>
+				<dict/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
-			<string>4E93A6CF-A620-41F6-B6EB-78348E8725ED</string>
+			<string>D45146C0-ADB0-47F7-92FF-A979F52E332E</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -526,40 +423,73 @@ echo "Copied to clipboard: $SP"</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>https://jira.finn.no/secure/RapidBoard.jspa?rapidView=232</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>34C6976A-B69A-48C0-9DD8-015368C208D0</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>keyword</key>
-				<string>jira_backlog</string>
+				<string>jira_num</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>Jira: BACKLOG</string>
+				<string>Jira: Tasknumber</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
-			<string>174ED1F2-228C-4F4D-B93D-213A6E6262EB</string>
+			<string>304A56A5-3448-4A18-BAB6-33A0ACFAAAF9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:JIRA_URL}/browse/{var:JIRA_PROJECT}-{query}</string>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>0F91B666-3136-4C89-8815-31ED0A4570AC</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>variables</key>
+				<dict>
+					<key>JIRA_ISSUE_TYPE</key>
+					<string>Task</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>4E93A6CF-A620-41F6-B6EB-78348E8725ED</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>2ECD4D89-90F1-42E2-9A27-D60A6B92E05C</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -569,7 +499,7 @@ echo "Copied to clipboard: $SP"</string>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>keyword</key>
-				<string>bug</string>
+				<string>jira_bug</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
@@ -580,7 +510,7 @@ echo "Copied to clipboard: $SP"</string>
 			<key>type</key>
 			<string>alfred.workflow.input.keyword</string>
 			<key>uid</key>
-			<string>524B20E1-A2A3-42DB-9A14-2B2311556FFD</string>
+			<string>9DDF92BA-52DB-4B20-919B-442D29401A35</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -613,7 +543,8 @@ echo "Copied to clipboard: $SP"</string>
 				<key>escaping</key>
 				<integer>0</integer>
 				<key>script</key>
-				<string>python /Users/frerodla/bin/jira/newJiraTask.py "{query}"</string>
+				<string>#echo "username $JIRA_USER"
+python ./newJiraTask.py "{query}"</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -649,24 +580,156 @@ echo "Copied to clipboard: $SP"</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>jira_backlog</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Jira BOARD: BACKLOG</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>174ED1F2-228C-4F4D-B93D-213A6E6262EB</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{var:JIRA_URL}/secure/RapidBoard.jspa?rapidView={var:rapidview}</string>
+				<key>variables</key>
+				<dict/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>1DBC8B99-1C97-40D4-BC56-26D491A7BA03</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>argument</key>
 				<string>{query}</string>
 				<key>variables</key>
 				<dict>
-					<key>JIRA_PROJECT</key>
-					<string>ADOUT</string>
-					<key>JIRA_PW</key>
-					<string></string>
-					<key>JIRA_URL</key>
-					<string>https://jira.finn.no</string>
-					<key>JIRA_USER</key>
-					<string></string>
+					<key>rapidview</key>
+					<string>232</string>
 				</dict>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.utility.argument</string>
 			<key>uid</key>
-			<string>1B0DFEE4-C50C-44A3-A3D1-8C555BAE0076</string>
+			<string>7FED79AF-3D40-4F5F-A83A-CDF4EBCB66D1</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>bug</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Jira: BUG</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>524B20E1-A2A3-42DB-9A14-2B2311556FFD</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>jira</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Jira BOARD: SEARCH</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>D818B9D0-9BC2-4221-93E3-8942F11A69DC</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argument</key>
+				<string>{query}</string>
+				<key>variables</key>
+				<dict>
+					<key>rapidview</key>
+					<string>227</string>
+				</dict>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.argument</string>
+			<key>uid</key>
+			<string>CD7965A6-BF4E-4373-B469-7ECA1577E98D</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>jira_mp</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Jira: MP</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>ADEE587D-679A-4700-971D-9264BA1566C2</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>jira_sprint</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Jira: Sprintnummer</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>D08BCE8D-1D5F-42FE-88ED-85281C14E371</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -694,6 +757,54 @@ echo "Copied to clipboard: $SP"</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>{query}</string>
+				<key>title</key>
+				<string>Jira Sprint</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>26EB2602-2617-4B89-8427-6F01756B273C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>127</integer>
+				<key>script</key>
+				<string>SP=`./get_sprint.sh`
+
+echo $SP | pbcopy
+
+echo "Copied to clipboard: $SP"</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>923DB6D1-A984-4EB9-99BF-2C6F05334B9C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>argument</key>
 				<string>{query}</string>
 				<key>variables</key>
@@ -713,9 +824,30 @@ echo "Copied to clipboard: $SP"</string>
 			<key>config</key>
 			<dict>
 				<key>argumenttype</key>
+				<integer>2</integer>
+				<key>keyword</key>
+				<string>sprint</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Jira: Sprintnummer</string>
+				<key>withspace</key>
+				<false/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>DBD10687-1C14-4412-BD7D-DBA48DE97FC9</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>keyword</key>
-				<string>impr</string>
+				<string>jira_impr</string>
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
@@ -748,9 +880,30 @@ echo "Copied to clipboard: $SP"</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>0</integer>
+				<key>keyword</key>
+				<string>impr</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Jira: IMPROVEMENT</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>51B38CA4-C0BA-4F17-9E7D-45CBCE7C1111</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
 	</array>
 	<key>readme</key>
-	<string>Jira-scripts fetched from:
+	<string>Jira-scripts originally fetched from:
 
 https://gist.github.com/JaviSoto/2599214
 
@@ -759,16 +912,12 @@ workflow &amp; sprint-shell-script &amp; shell-script &amp; python-script.
 much to be improved here…
 
 To get it up &amp; running:
-1. change the user &amp; password from XXX to your own in the python-script
-2. Change the path to the scripts in the workflow-scripts (2 places)
-3. Change the green hopper sprint-number in the workflow jira_in_sprint-workflow
+1. Enter JIRA credentials in workflow configure screen
 
 keyword:
-jira -&gt; Open taskboard
-jira_search &lt;query&gt; -&gt;  search jira
-jira_sak &lt;nr&gt;  -&gt; open issue DATA-&lt;nr&gt;
-jira_in &lt;query&gt; create a new task with title &lt;query&gt; (ikke bruk tødler)
-jira_in_sprint &lt;query&gt; create a new task  in a sprint with title &lt;query&gt; (ikke bruk tødler)</string>
+TODO: document
+
+©: Fredrik Rødland</string>
 	<key>uidata</key>
 	<dict>
 		<key>0D460AD2-AAF7-4ACA-9F14-20FA2DFDC2AA</key>
@@ -776,89 +925,94 @@ jira_in_sprint &lt;query&gt; create a new task  in a sprint with title &lt;query
 			<key>colorindex</key>
 			<integer>5</integer>
 			<key>xpos</key>
-			<integer>680</integer>
+			<integer>830</integer>
 			<key>ypos</key>
 			<integer>700</integer>
+		</dict>
+		<key>0F91B666-3136-4C89-8815-31ED0A4570AC</key>
+		<dict>
+			<key>xpos</key>
+			<integer>230</integer>
+			<key>ypos</key>
+			<integer>150</integer>
 		</dict>
 		<key>15299C7A-CDEA-4359-8898-446F2892DB7C</key>
 		<dict>
 			<key>colorindex</key>
 			<integer>3</integer>
 			<key>xpos</key>
-			<integer>430</integer>
+			<integer>590</integer>
 			<key>ypos</key>
-			<integer>230</integer>
+			<integer>10</integer>
 		</dict>
 		<key>174ED1F2-228C-4F4D-B93D-213A6E6262EB</key>
 		<dict>
 			<key>xpos</key>
-			<integer>90</integer>
+			<integer>50</integer>
 			<key>ypos</key>
-			<integer>340</integer>
+			<integer>280</integer>
 		</dict>
-		<key>1B0DFEE4-C50C-44A3-A3D1-8C555BAE0076</key>
+		<key>1DBC8B99-1C97-40D4-BC56-26D491A7BA03</key>
 		<dict>
-			<key>colorindex</key>
-			<integer>9</integer>
-			<key>note</key>
-			<string>Enter JIRA credentials</string>
 			<key>xpos</key>
-			<integer>800</integer>
+			<integer>320</integer>
 			<key>ypos</key>
-			<integer>480</integer>
+			<integer>290</integer>
 		</dict>
 		<key>26EB2602-2617-4B89-8427-6F01756B273C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1030</integer>
+			<integer>380</integer>
 			<key>ypos</key>
-			<integer>50</integer>
+			<integer>580</integer>
 		</dict>
 		<key>2ECD4D89-90F1-42E2-9A27-D60A6B92E05C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>290</integer>
+			<integer>380</integer>
 			<key>ypos</key>
-			<integer>10</integer>
+			<integer>190</integer>
 		</dict>
 		<key>304A56A5-3448-4A18-BAB6-33A0ACFAAAF9</key>
 		<dict>
 			<key>xpos</key>
-			<integer>90</integer>
+			<integer>50</integer>
 			<key>ypos</key>
-			<integer>230</integer>
-		</dict>
-		<key>34C6976A-B69A-48C0-9DD8-015368C208D0</key>
-		<dict>
-			<key>xpos</key>
-			<integer>290</integer>
-			<key>ypos</key>
-			<integer>340</integer>
+			<integer>120</integer>
 		</dict>
 		<key>4E93A6CF-A620-41F6-B6EB-78348E8725ED</key>
 		<dict>
 			<key>colorindex</key>
 			<integer>3</integer>
 			<key>xpos</key>
-			<integer>680</integer>
+			<integer>840</integer>
 			<key>ypos</key>
-			<integer>330</integer>
+			<integer>150</integer>
+		</dict>
+		<key>51B38CA4-C0BA-4F17-9E7D-45CBCE7C1111</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>5</integer>
+			<key>xpos</key>
+			<integer>590</integer>
+			<key>ypos</key>
+			<integer>780</integer>
 		</dict>
 		<key>524B20E1-A2A3-42DB-9A14-2B2311556FFD</key>
 		<dict>
 			<key>colorindex</key>
 			<integer>1</integer>
 			<key>xpos</key>
-			<integer>430</integer>
+			<integer>590</integer>
 			<key>ypos</key>
-			<integer>450</integer>
+			<integer>340</integer>
 		</dict>
 		<key>57B1154B-CFD4-43BF-A368-816497818584</key>
 		<dict>
 			<key>colorindex</key>
 			<integer>7</integer>
 			<key>xpos</key>
-			<integer>680</integer>
+			<integer>830</integer>
 			<key>ypos</key>
 			<integer>590</integer>
 		</dict>
@@ -867,16 +1021,16 @@ jira_in_sprint &lt;query&gt; create a new task  in a sprint with title &lt;query
 			<key>colorindex</key>
 			<integer>1</integer>
 			<key>xpos</key>
-			<integer>680</integer>
+			<integer>840</integer>
 			<key>ypos</key>
-			<integer>480</integer>
+			<integer>260</integer>
 		</dict>
 		<key>734F6EB4-1250-47E9-B0F4-1ABC28D7520A</key>
 		<dict>
 			<key>colorindex</key>
 			<integer>7</integer>
 			<key>xpos</key>
-			<integer>430</integer>
+			<integer>590</integer>
 			<key>ypos</key>
 			<integer>560</integer>
 		</dict>
@@ -885,7 +1039,7 @@ jira_in_sprint &lt;query&gt; create a new task  in a sprint with title &lt;query
 			<key>colorindex</key>
 			<integer>5</integer>
 			<key>xpos</key>
-			<integer>430</integer>
+			<integer>590</integer>
 			<key>ypos</key>
 			<integer>670</integer>
 		</dict>
@@ -894,74 +1048,118 @@ jira_in_sprint &lt;query&gt; create a new task  in a sprint with title &lt;query
 			<key>colorindex</key>
 			<integer>3</integer>
 			<key>xpos</key>
-			<integer>430</integer>
+			<integer>590</integer>
 			<key>ypos</key>
-			<integer>340</integer>
+			<integer>120</integer>
+		</dict>
+		<key>7FED79AF-3D40-4F5F-A83A-CDF4EBCB66D1</key>
+		<dict>
+			<key>xpos</key>
+			<integer>230</integer>
+			<key>ypos</key>
+			<integer>310</integer>
 		</dict>
 		<key>8E851C85-FFBB-4CA3-BCCD-F25E7A87E94E</key>
 		<dict>
 			<key>xpos</key>
-			<integer>90</integer>
+			<integer>50</integer>
 			<key>ypos</key>
-			<integer>120</integer>
+			<integer>10</integer>
 		</dict>
 		<key>923DB6D1-A984-4EB9-99BF-2C6F05334B9C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>880</integer>
+			<integer>230</integer>
 			<key>ypos</key>
-			<integer>50</integer>
+			<integer>580</integer>
 		</dict>
-		<key>944F156D-B78F-4998-BC8A-DFFC4D68B7DE</key>
+		<key>9DDF92BA-52DB-4B20-919B-442D29401A35</key>
 		<dict>
+			<key>colorindex</key>
+			<integer>1</integer>
 			<key>xpos</key>
-			<integer>290</integer>
+			<integer>590</integer>
 			<key>ypos</key>
-			<integer>120</integer>
+			<integer>230</integer>
 		</dict>
 		<key>A70A4E1E-712E-4575-967A-0AA64960904D</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1270</integer>
+			<integer>1200</integer>
+			<key>ypos</key>
+			<integer>230</integer>
+		</dict>
+		<key>ADEE587D-679A-4700-971D-9264BA1566C2</key>
+		<dict>
+			<key>colorindex</key>
+			<integer>7</integer>
+			<key>xpos</key>
+			<integer>590</integer>
 			<key>ypos</key>
 			<integer>450</integer>
 		</dict>
-		<key>BF65E5AB-5941-4694-A96A-FAE227CE2B5F</key>
+		<key>CD7965A6-BF4E-4373-B469-7ECA1577E98D</key>
 		<dict>
 			<key>xpos</key>
-			<integer>290</integer>
-			<key>ypos</key>
 			<integer>230</integer>
+			<key>ypos</key>
+			<integer>420</integer>
 		</dict>
 		<key>D08BCE8D-1D5F-42FE-88ED-85281C14E371</key>
 		<dict>
 			<key>xpos</key>
-			<integer>430</integer>
+			<integer>40</integer>
 			<key>ypos</key>
-			<integer>10</integer>
+			<integer>530</integer>
+		</dict>
+		<key>D45146C0-ADB0-47F7-92FF-A979F52E332E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>230</integer>
+			<key>ypos</key>
+			<integer>40</integer>
 		</dict>
 		<key>D818B9D0-9BC2-4221-93E3-8942F11A69DC</key>
 		<dict>
 			<key>xpos</key>
-			<integer>90</integer>
+			<integer>50</integer>
 			<key>ypos</key>
-			<integer>10</integer>
+			<integer>390</integer>
 		</dict>
 		<key>DBD10687-1C14-4412-BD7D-DBA48DE97FC9</key>
 		<dict>
 			<key>xpos</key>
-			<integer>430</integer>
+			<integer>40</integer>
 			<key>ypos</key>
-			<integer>120</integer>
+			<integer>640</integer>
 		</dict>
 		<key>FF316160-82F1-4AC1-8D82-72A1F0AC9ED6</key>
 		<dict>
 			<key>xpos</key>
-			<integer>1110</integer>
+			<integer>1040</integer>
 			<key>ypos</key>
-			<integer>450</integer>
+			<integer>230</integer>
 		</dict>
 	</dict>
+	<key>variables</key>
+	<dict>
+		<key>JIRA_PROJECT</key>
+		<string>ADOUT</string>
+		<key>JIRA_PW</key>
+		<string></string>
+		<key>JIRA_URL</key>
+		<string>https://jira.finn.no</string>
+		<key>JIRA_USER</key>
+		<string></string>
+	</dict>
+	<key>variablesdontexport</key>
+	<array>
+		<string>JIRA_PROJECT</string>
+		<string>JIRA_PW</string>
+		<string>JIRA_USER</string>
+	</array>
+	<key>version</key>
+	<string>0.2</string>
 	<key>webaddress</key>
 	<string>http://rodland.no</string>
 </dict>
