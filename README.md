@@ -36,7 +36,7 @@ Keyword: `jira_bug`, `bug`
 ### <a name="impr"></a>impr
 Enter a new JIRA-issure of type Market Problem:
 
-![improvement](docs/mp.png "Enter new improvement")
+![improvement](docs/impr.png "Enter new improvement")
 
 Keyword: `jira_impr`, `impr`
 ### <a name="mp"></a>mp
