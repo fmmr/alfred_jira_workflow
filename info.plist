@@ -373,7 +373,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>text</key>
-				<string>Jira: Søk</string>
+				<string>Jira: Search</string>
 				<key>withspace</key>
 				<true/>
 			</dict>
