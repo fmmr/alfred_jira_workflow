@@ -972,17 +972,9 @@ echo "Copied to clipboard: $SP"</string>
 
 https://gist.github.com/JaviSoto/2599214
 
-workflow &amp; sprint-shell-script &amp; shell-script &amp; python-script.
+See doc on: https://github.com/fmmr/alfred_jira_workflow
 
-much to be improved here…
-
-To get it up &amp; running:
-1. Enter JIRA credentials in workflow configure screen
-
-keyword:
-TODO: document
-
-©: Fredrik Rødland</string>
+© Fredrik Rødland</string>
 	<key>uidata</key>
 	<dict>
 		<key>0D460AD2-AAF7-4ACA-9F14-20FA2DFDC2AA</key>
@@ -1238,7 +1230,7 @@ TODO: document
 		<string>JIRA_USER</string>
 	</array>
 	<key>version</key>
-	<string>0.2</string>
+	<string>0.3</string>
 	<key>webaddress</key>
 	<string>http://rodland.no</string>
 </dict>
