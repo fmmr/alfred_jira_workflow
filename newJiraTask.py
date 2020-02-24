@@ -6,6 +6,7 @@ import simplejson as json
  
 from restkit import Resource, BasicAuth, request
 
+chrome_path = 'open -a /Applications/Google\ Chrome.app %s'
 username = os.environ.get('JIRA_USER')
 server_url = os.environ.get('JIRA_URL')
 password = os.environ.get('JIRA_PW')
@@ -14,11 +15,12 @@ issuetype = os.environ.get('JIRA_ISSUE_TYPE')
 sprint = os.getenv('JIRA_SPRINT', "")
 
 def createTask(server_base_url, user, password, project, sprint, issuetype, task_summary):
-    auth = BasicAuth(user, password)
+    user_token = "%s:%s" % (user, password)
  
     resource_name = "issue"
-    complete_url = "%s/rest/api/latest/%s/" % (server_base_url, resource_name)
-    resource = Resource(complete_url, filters=[auth])
+    complete_url = "https://%s@%s/rest/api/latest/%s" % (user_token, server_base_url, resource_name)
+    # print complete_url
+    resource = Resource(complete_url)
     nullish = "null"
     try:
         data = {
@@ -28,18 +30,23 @@ def createTask(server_base_url, user, password, project, sprint, issuetype, task
                 },
                 "summary": task_summary,
                 "description": "SSIA",
-                "customfield_10271": sprint,
                 "labels": ["search"],
                 "issuetype": {
                     "name": issuetype
                 }
+#                "customfield_10271": sprint,
+                #,
+                #"status": {
+                #    "id": "1",
+                #    "name": "Open"
+                #}
                 #,
                 #"assignee": {
                 #    "name": "frerodla",
                 #}
             }
         }
-        response = resource.post(headers = {'Content-Type' : 'application/json'}, payload=json.dumps(data))
+        response = resource.post(headers = {'Content-Type' : 'application/json', 'user' : user_token}, payload=json.dumps(data))
     except Exception, ex:
         print "EXCEPTION: %s " % ex.msg
         return None
@@ -61,12 +68,13 @@ if __name__ == '__main__':
     issue = createTask(server_url, username, password, project, sprint, issuetype, task_summary)
     
     issue_code = issue["key"]
-    issue_url = "%s/browse/%s" % (server_url, issue_code)
+        
+    issue_url = "https://%s/browse/%s" % (server_url, issue_code)
     os.environ['JIRA_ISSUE'] = issue_code
     
     if (issue != None):
         print issue_code
         print "summary: %s" % task_summary
-        wb.open(issue_url)
+        wb.get(chrome_path).open(issue_url)
     else:
         sys.exit(2)
